@@ -49,11 +49,12 @@ int main(void)
 
 	//int arr[] = { 1,2 }; // int arr[2] ¿Í °°À½
 
-	float arr_f[5] = { 1.0f,2.0f,3.0f };
+	/*float arr_f[5] = { 1.0f,2.0f,3.0f };
 	for (int i = 0; i < 5; i++)
 	{
 		printf("%.2f\n", arr_f[i]);
 	}
+	*/
 
 	return 0;
 }
