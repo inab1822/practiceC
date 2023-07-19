@@ -132,6 +132,8 @@
     <ClCompile Include="condition.c" />
     <ClCompile Include="function.c" />
     <ClCompile Include="function_project.c" />
+    <ClCompile Include="pointer.c" />
+    <ClCompile Include="pointer_project.c" />
     <ClCompile Include="up_down_project.c" />
     <ClCompile Include="random.c" />
   </ItemGroup>
