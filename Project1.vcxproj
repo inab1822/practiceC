@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{786c8e1d-144e-457e-bf3b-2fa271d8de04}</ProjectGuid>
+    <ProjectGuid>{2953596e-be70-466c-88d9-332462232a3f}</ProjectGuid>
     <RootNamespace>Project1</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
@@ -127,17 +127,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="array.c" />
-    <ClCompile Include="array_project.c" />
     <ClCompile Include="condition.c" />
-    <ClCompile Include="function.c" />
-    <ClCompile Include="function_project.c" />
-    <ClCompile Include="m_array.c" />
-    <ClCompile Include="m_array_project.c" />
-    <ClCompile Include="pointer.c" />
-    <ClCompile Include="pointer_project.c" />
-    <ClCompile Include="up_down_project.c" />
-    <ClCompile Include="random.c" />
+    <ClCompile Include="loop.c" />
+    <ClCompile Include="printfscanf.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

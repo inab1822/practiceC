@@ -17,7 +17,7 @@ void decreaseWater(long elapesdTime);
 int checkFishAlive();
 
 
-int main(void)
+int main_pointer_project(void)
 {
 	long startTime = 0; // 게임 시작시간
 	long totalElapsedTime = 0; // 총 경과시간
