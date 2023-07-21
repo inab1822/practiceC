@@ -136,6 +136,8 @@
     <ClCompile Include="m_array_project.c" />
     <ClCompile Include="pointer.c" />
     <ClCompile Include="pointer_project.c" />
+    <ClCompile Include="struct.c" />
+    <ClCompile Include="struct_project.c" />
     <ClCompile Include="up_down_project.c" />
     <ClCompile Include="random.c" />
   </ItemGroup>

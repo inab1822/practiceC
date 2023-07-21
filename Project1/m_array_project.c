@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <time.h>
+#include <stdlib.h>
 
 // 10마리의 서로 다른 동물 (각 카드 2장씩)
 // 사용자로부터 2개의 입려값을 받아서 -> 같은 동물 찾으면 카드 뒤집기
@@ -21,9 +22,9 @@ void printQuestion();
 int foundAllAnimals();
 
 
-int main(void)
+int main_m_array_project(void)
 {
-	srand(time(NULL));
+	srand((unsigned int) time(NULL));
 
 	initAnimalArray();
 	initAnimalName();
